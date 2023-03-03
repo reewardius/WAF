@@ -1,3 +1,14 @@
+# Tools
+```
+https://github.com/ZemlyakovDmitry/cloudfuck
+https://github.com/mrh0wl/Cloudmare
+https://github.com/gwen001/cloudflare-origin-ip
+https://github.com/christophetd/CloudFlair
+https://github.com/hakluke/hakoriginfinder
+https://t.me/c/1345592925/2358
+https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275
+```
+
 # WAF
 ```
 1. https://github.com/RedSection/pFuzz
