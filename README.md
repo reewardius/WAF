@@ -17,6 +17,8 @@ https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275
 4. https://github.com/nemesida-waf/waf-bypass
 5. https://github.com/PortSwigger/bypass-waf
 6. https://github.com/0xInfection/Awesome-WAF
+
+7. parse waf-bypass results - python parse.py
 ```
 # DDOS
 ```
