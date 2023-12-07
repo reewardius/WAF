@@ -43,10 +43,9 @@ https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275
 ```
 # Proxy
 ```
-1. https://github.com/constverum/ProxyBroker
-2. https://github.com/kitabisa/mubeng
-3. https://github.com/pry0cc/soxy
-4. https://github.com/nullsoepic/proximal
-5. https://github.com/monosans/proxy-list
-6. https://github.com/complexorganizations/proxy-registry
+1. https://github.com/kitabisa/mubeng
+2. https://github.com/nullsoepic/proximal
+3. https://github.com/monosans/proxy-list
+4. https://github.com/complexorganizations/proxy-registry
+5. https://github.com/ForceFledgling/proxyhub
 ```
